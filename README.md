@@ -1,4 +1,4 @@
-# linkroom
+# rell links
 
 A demo of a release link manager I built for a boutique record label. Artists get a
 smart link per release (one URL, buttons out to every streaming service), and the
