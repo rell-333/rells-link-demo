@@ -161,7 +161,7 @@ export default function ReleasesPage() {
                                                                         setEditTarget(release)
                                                                     }
                                                                     if (key === "copy-link") {
-                                                                        navigator.clipboard.writeText(`${window.location.origin}/${release.linkName}`)
+                                                                        navigator.clipboard.writeText(`https://linksdemo.rell.uk/${release.linkName}`)
                                                                     }
                                                                     if (key === "delete-release") {
                                                                         setDeleteTarget(release)
